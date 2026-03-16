@@ -1,0 +1,35 @@
+[
+  {
+    "id": "sales-forecasting",
+    "title": "Sales Forecasting Dashboard",
+    "description": "A sales & forecasting dashboard built in Power BI using Excel data and DAX measures, focused on KPI tracking and trend insights.",
+    "techStack": ["Power BI", "Excel", "DAX", "Data Analysis"],
+    "githubUrl": "https://github.com/soorajnair16/Sales-Forecasting",
+    "image": "/project-dev-analytics.svg"
+  },
+  {
+    "id": "e-com-dashboard",
+    "title": "E-Commerce Revenue Dashboard",
+    "description": "Power BI dashboard for e-commerce revenue analysis with interactive filtering and breakdowns across sales dimensions.",
+    "techStack": ["Power BI", "Excel", "DAX", "Data Visualization"],
+    "githubUrl": "https://github.com/soorajnair16/E-Com-Dashboard",
+    "image": "/project-api-monitoring.svg"
+  },
+  {
+    "id": "stock-market-analysis",
+    "title": "Stock Market Analysis",
+    "description": "Exploratory analysis of stock market datasets with insights around performance, trends, and comparative metrics.",
+    "techStack": ["Python", "Pandas", "Data Analysis", "Visualization"],
+    "githubUrl": "https://github.com/soorajnair16/Stock-Market-analysis",
+    "image": "/project-task-orchestrator.svg"
+  },
+  {
+    "id": "thesis-ai-powered-business-revolution",
+    "title": "Thesis: AI-Powered Business Revolution",
+    "description": "Academic thesis exploring machine learning-driven process reengineering to elevate efficiency and boost sales outcomes.",
+    "techStack": ["Machine Learning", "Data Analysis", "Research"],
+    "githubUrl": "https://github.com/soorajnair16/Thesis",
+    "image": "/project-dev-analytics.svg"
+  }
+]
+
